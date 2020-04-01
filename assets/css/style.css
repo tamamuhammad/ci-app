@@ -1,0 +1,33 @@
+.buton {
+    height: 50px!important;
+    width: 540px!important;
+}
+
+.tambah:hover {
+    margin-left: 10px!important;
+}
+
+#pencet {
+    display: inline-block;
+    height: 50px;
+    padding-top: 12px;
+    width: 435px;
+    color: black;
+    font-family: 'Century Gothic';
+}
+
+#pencet:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#tombol {
+    height: 100%;
+    border-radius: 0px;
+    padding-top: 15px;
+    width: 50px;
+}
+
+#tombol:hover {
+    margin-right: 5px;
+}
