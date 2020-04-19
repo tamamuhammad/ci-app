@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,11 +10,13 @@
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/sweetalert2.min.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/style.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/fontawesome/css/all.min.css">
 
     <title><?= $judul; ?></title>
-  </head>
-  <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
         <div class="container">
             <a class="navbar-brand" href="<?= base_url(); ?>">CI APP</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
